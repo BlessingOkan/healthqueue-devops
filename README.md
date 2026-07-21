@@ -1,5 +1,8 @@
 # HealthQueue Appointment API - DevOps Reference Pipeline
 
+# Video Walkthrough: https://somup.com/cOirckVnwNX 
+
+
 A production-grade DevOps pipeline for HealthQueue's patient-facing appointment scheduling API, built as the team's reference architecture.
 
 ## What's in this repo
